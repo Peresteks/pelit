@@ -1,0 +1,392 @@
+.index-bg {
+  background-image : url("https://cdnb.artstation.com/p/assets/images/images/000/380/449/large/anthony-o-donnell-driveclub-the-kyle-001.jpg?1420105923");
+  background-repeat : no-repeat;
+  background-size : cover;
+  background-attachment : fixed;
+}
+
+.second-bg {
+  background-image : url("https://www.modls19.com/wp-content/uploads/2019/07/fs-19-seasons-19-mod-for-farming-simulator-19.jpg");
+  background-repeat : no-repeat;
+  background-size : cover;
+  background-attachment : fixed;
+}
+
+.third-bg {
+  background-image : url("https://editorials.autotrader.ca/media/107826/01-al-driveclub.jpg?anchor=center&mode=crop&width=1920&height=1080&rnd=131448907331230000");
+  background-repeat : no-repeat;
+  background-size : cover;
+  background-attachment : fixed;
+}
+
+.fourth-bg {
+  background-image : url("https://wallpapercave.com/wp/wp2929322.jpg");
+  background-repeat : no-repeat;
+  background-size : cover;
+  background-attachment : fixed;
+}
+
+.fifth-bg {
+  background-image : url("https://gamingpicks.files.wordpress.com/2015/01/driveclub_landscapes_img_01.jpg");
+  background-repeat : no-repeat;
+  background-size : cover;
+  background-attachment : fixed;
+}
+
+h1 {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  font-size : 40px;
+  text-align : center;
+  margin : 110px 10% 50px 10%;
+  padding : 10px 30px;
+  border-radius : 20px;
+}
+
+h3 {
+  color : white;
+  font-size : 20px;
+  text-align : left;
+  padding : 10px 0px;
+}
+
+h4 {
+  color : white;
+  font-size : 25px;
+  text-align : center;
+  padding : 10px 0px;
+}
+
+h5 {
+  color : white;
+  font-size : 40px;
+  text-align : center;
+  padding : 10px 0px;
+}
+
+img {
+  width : 40%;
+  height : auto;
+  border-radius : 10px;
+}
+
+.tietoajakuvia {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.farmingsimulator {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.laitteet {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.bus {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.driveclub {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.granturismo {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.wipeout {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.mudrunner {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.minecraft {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.yhteystiedot {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+.yhteystietoni {
+  color : white;
+  font-size : 15px;
+  text-align : center;
+  padding : 10px 0px;
+}
+
+.Kuvia {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+  margin : 70px 10% 70px 10%;
+  padding : 20px;
+  border-radius : 20px;
+}
+
+table {
+  border-collapse : collapse;
+  width : 100%;
+  max-width : 100%;
+}
+
+.table1 {
+overflow-x : auto;
+}
+
+th, td {
+  text-align : left;
+  padding : 8px;
+}
+
+tr:nth-child(even) {background-color: rgba(0,0,0, 0.4);}
+
+.hr {
+  width : 100%;
+  text-align : center;
+  margin : 30px 0 30px 0;
+}
+
+
+#social {
+  margin : 20px 10px;
+  text-align : center;
+}
+
+.smGlobalBtn{
+    display : inline-block;
+    position : relative;
+    cursor : pointer;
+    width : 50px;
+    height : 50px;
+    box-shadow : 0 2px 2px rgba(0,0,0, 0.4);
+    text-decoration : none;
+    text-align : center;
+    color : #fff;
+    font-size : 25px;
+    font-weight : normal;
+    line-height : 2em;
+    border-radius : 25px;
+	margin : 0 10px;
+}
+
+
+.facebookBtn{
+    background : #4060A5;
+}
+
+.facebookBtn:before{
+    font-family : "FontAwesome";
+    content : "\f09a";
+}
+
+.facebookBtn:hover{
+    color : #4060A5;
+    background : #fff;
+}
+.twitterBtn{
+    background : #00ABE3;
+}
+
+.twitterBtn:before{
+      font-family : "FontAwesome";
+      content : "\f099";
+}
+
+.twitterBtn:hover{
+      color : #00ABE3;
+      background : #fff;
+}
+.linkedinBtn{
+    background : #0094BC;
+}
+
+.linkedinBtn:before{
+      font-family : "FontAwesome";
+      content : "\f0e1";
+}
+
+.linkedinBtn:hover{
+      color : #0094BC;
+      background : #fff;
+}
+div.gallery {
+  border-radius : 10px;
+}
+
+div.gallery:hover {
+  border : 1px solid #777;
+  border-radius : 10px;
+}
+
+div.gallery img {
+  width : 100%;
+  height : auto;
+  border-radius : 10px;
+}
+
+div.desc {
+  padding : 15px;
+  text-align : center;
+}
+
+* {
+  box-sizing : border-box;
+}
+
+.responsive {
+  padding : 0 6px;
+  float : left;
+  width : 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width : 49.99999%;
+    margin : 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width : 100%;
+  }
+}
+
+.clearfix:after {
+  display : table;
+  clear : both;
+}
+footer {
+  background-color : rgba(0,0,0, 0.4);
+  padding : 10px;
+  text-align : center;
+  color : white;
+}	
+
+div {
+    border-width : 2px;
+    
+}
+ul {
+  list-style-type : none;
+  overflow : hidden;
+  background-color : rgba(0,0,0, 0.4);
+}
+
+li {
+  float : left;
+}
+
+#navbar {
+  overflow : hidden;
+  background-color : rgba(0,0,0, 0.4);
+}
+
+#navbar a {
+  float : left;
+  display : block;
+  color : #f2f2f2;
+  text-align : center;
+  padding : 14px 30px;
+  text-decoration : none;
+  font-size : 17px;
+}
+
+#navbar a:hover {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+}
+
+#navbar a.active {
+  background-color : rgba(0,0,0, 0.4);
+  color : white;
+}
+
+.content {
+  padding : 16px;
+}
+
+.sticky {
+  position : fixed;
+  top : 0;
+  width : 100%;
+}
+
+.sticky + .content {
+  padding-top : 60px;
+}
+
+li a {
+  display : block;
+  color : white;
+  text-align : center;
+  padding : 14px 30px;
+  font-size : 18px;
+  text-decoration : none;
+}
+
+@media screen and (max-width: 600px) {
+  navbar a, 
+  li a {float: none;}
+}
+
+li a:hover {
+  background-color : rgba(0,0,0, 0.4);
+}
+
+#carouselExampleSlidesOnly {
+	width : 40%;
+}
+
+.carousel slide {
+width : 40px;	
+}
+
+.d-block w-100 {
+border : 2px solid black;
+width : 40%;
+height : auto;
+} 
+	
